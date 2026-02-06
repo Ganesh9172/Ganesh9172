@@ -1,43 +1,69 @@
-## Hi there 👋
-# 💫 About Me:
-I am Ganesh Bhosale, a Bachelor of Engineering student in Information Technology at Sinhgad Institute of Technology, Lonavla (SPPU). I have a strong interest in data analytics, business intelligence, and data visualization, and I enjoy working with data to uncover meaningful insights.
+👋 **Hi, I’m Ganesh Bhosale**  
+---
 
-# 🛠️ Skills:
+## 🚀 **ABOUT ME**
+I’m currently pursuing a **Bachelor of Engineering in Information Technology** at **Sinhgad Institute of Technology, Lonavla (SPPU)**.  
+I’m passionate about **data analytics, business intelligence, and data visualization**, and I enjoy transforming raw data into meaningful insights through interactive dashboards.
 
-💻 **Programming Languages**  
-Python, SQL, Java, HTML, CSS  
+I love working with **real-world datasets** in domains like **FinTech, insurance, and sales analytics**, focusing on trend analysis and data-driven decision-making.
 
-📊 **Data Analytics Skills**  
-Data Visualization, Exploratory Data Analysis (EDA)  
+---
 
-📚 **Libraries & Frameworks**  
-Pandas, NumPy, Matplotlib, Seaborn  
+## 🎓 **INTERNSHIP**
+### **Data Analyst using AI-LLMs | VOIS (Vodafone Intelligent Solutions)**  
+• Automated data analysis workflows using **AI & LLMs**  
+• Performed **Exploratory Data Analysis (EDA)** on structured business datasets  
+• Worked on data cleaning, preprocessing, and validation  
+• Delivered **actionable insights** for faster and better decision-making  
 
-🧰 **Tools & Platforms**  
-Microsoft Power BI, Microsoft Excel, SQL
-``
+---
 
+## 🛠️ **SKILLS**
 
-# 🚀 Projects:
-
-💸 **UPI Transaction & Balance Analysis Dashboard**  
-An interactive Power BI dashboard built using UPI transaction data to analyze monthly transaction trends, remaining balances, and user behavior.  
-The project includes dynamic filters for banks, cities, payment methods, merchants, and demographics to generate meaningful fintech insights.
-
-📊 **Insurance Performance & Claims Analysis Dashboard**  
-Designed a Power BI dashboard to evaluate insurance premiums, claims, policy activity, and customer demographics.  
-The project helps identify high-risk age groups, claim trends, and overall performance metrics for better decision-making.
-
-🛒 **Store Sales Performance Analysis Dashboard**  
-Developed a sales analytics dashboard to track revenue trends, regional performance, and product-wise contribution.  
-The dashboard provides actionable insights to support sales forecasting and business optimization.
+<br>Programming Languages: Python, SQL, Java, HTML, CSS
+<br>Data Analytics Skills: Data Visualization, Exploratory Data Analysis (EDA)
+<br>Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn
+<br>Tools & Platforms: Microsoft Power BI, Microsoft Excel, SQL
 
 
+---
+
+## 🔥 **PROJECTS**
+
+### **UPI Transaction & Balance Analysis Dashboard**  
+*Power BI, Excel, DAX*  
+Interactive dashboard analyzing **monthly UPI transactions, balances, and user behavior** across banks, cities, payment methods, and demographics.
+
+### **Insurance Performance & Claims Analysis Dashboard**  
+*Power BI*  
+Analyzed **insurance claims, policy performance, and customer demographics** to identify trends and support business decisions.
+
+### **Store Sales Performance Analysis Dashboard**  
+*Power BI, Excel*  
+Sales analytics dashboard to track **revenue trends, region-wise performance, and product contribution**.
+
+---
+
+✨ **Fun Fact**  
+I enjoy converting complex datasets into **simple, interactive dashboards** that anyone can understand 📊  
+
+⭐ *If you like my work, feel free to star my repositories!*
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ganeshbhosale-040b00318 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshbhosalepatil1718@gmail.com ) 
+
+
+<h2 align="center">🌐 Socials</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ganeshbhosale-040b00318">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ganeshbhosalepatil1718@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
