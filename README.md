@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C2FF,100:34D399&height=180&section=header&text=Ganesh%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated profile header" />
+</p>
+
 <h1 align="center">Hi, I'm Ganesh Bhosale 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst | Power BI Developer | SQL | Python</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Tableau;Turning+Data+into+Actionable+Insights" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
@@ -108,6 +112,27 @@ July 2023 – May 2027 | Pune, India
 - Python notebooks for cleaning and exploratory analysis
 - Tableau visualizations and data storytelling
 - Practical projects using cloud and warehouse technologies
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh9172&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh9172&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh9172&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh9172&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:00C2FF,100:7C3AED&height=100&section=footer&animation=fadeIn" alt="Animated profile footer" />
+</p>
 
 <p align="center">
   <strong>Interested in data analytics, business intelligence, and dashboard development opportunities.</strong>
