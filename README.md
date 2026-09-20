@@ -118,6 +118,12 @@ I am a **Data Analyst and Power BI Intern** specializing in transforming raw dat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh9172&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh9172/Ganesh9172/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:00C2FF,100:7C3AED&height=100&section=footer&animation=fadeIn" alt="Animated profile footer" />
 </p>
