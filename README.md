@@ -30,9 +30,7 @@
 
 ## About Me
 
-I am a **Data Analyst and Power BI Intern** pursuing a Bachelor of Engineering in Information Technology at Sinhgad Institute of Technology, Lonavla.
-
-I specialize in transforming raw data into reliable analysis, interactive dashboards, and actionable business insights. My experience includes working with datasets containing **100,000+ records**, developing DAX measures, building data models, performing exploratory data analysis, and improving reporting accuracy.
+I am a **Data Analyst and Power BI Intern** specializing in transforming raw data into reliable analysis, interactive dashboards, and actionable business insights. My experience includes working with datasets containing **100,000+ records**, developing DAX measures, building data models, performing exploratory data analysis, and improving reporting accuracy.
 
 **Core strengths:** data cleaning, SQL analysis, KPI reporting, dashboard development, data modeling, business storytelling, and stakeholder-focused reporting.
 
@@ -97,12 +95,6 @@ I specialize in transforming raw data into reliable analysis, interactive dashbo
 - Complete Data Analyst Bootcamp: From Basics to Advanced — Udemy
 - AICTE-VOIS Virtual Internship: Data Analytics — Vodafone Idea Foundation
 
-## Education
-
-**Bachelor of Engineering in Information Technology**  
-Sinhgad Institute of Technology, Lonavla  
-July 2023 – May 2027 | Pune, India
-
 ---
 
 ## What Recruiters Can Find Here
@@ -120,10 +112,6 @@ July 2023 – May 2027 | Pune, India
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ganesh9172&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh9172&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh9172&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
