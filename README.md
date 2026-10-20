@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C2FF,100:34D399&height=180&section=header&text=Ganesh%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C2FF,100:34D399&height=190&section=header&text=Ganesh%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Power%20BI%20%7C%20Business%20Intelligence&descAlignY=56&descSize=16" alt="Waving gradient header with name and analytics focus" />
 </p>
 
 <h1 align="center">Hi, I'm Ganesh Bhosale 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Tableau;Turning+Data+into+Actionable+Insights" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1200&color=5B8DEF&center=true&vCenter=true&width=760&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Tableau;Turning+Data+into+Actionable+Insights" alt="Typing animation introducing Ganesh as a data analyst and Power BI developer" />
 </p>
 
 <p align="center">
@@ -110,22 +110,26 @@ I am a **Data Analyst and Power BI Intern** specializing in transforming raw dat
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh9172&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh9172&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh9172&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github&title_color=7C3AED&icon_color=00C2FF&text_color=4B5563" alt="GitHub statistics card showing contribution metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh9172&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=4B5563" alt="Top languages card highlighting frequently used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh9172&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh9172&theme=github-compact&hide_border=true&area=true&line=7C3AED&point=34D399&color=4B5563&title_color=7C3AED" alt="GitHub contribution activity graph across recent commits" />
 </p>
 
 <h2 align="center">🐍 My Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh9172/Ganesh9172/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh9172/Ganesh9172/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh9172/Ganesh9172/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Ganesh9172/Ganesh9172/output/github-contribution-grid-snake.svg" alt="Animated snake tracing GitHub contribution history" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:00C2FF,100:7C3AED&height=100&section=footer&animation=fadeIn" alt="Animated profile footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C2FF,100:34D399&height=110&section=footer&animation=fadeIn" alt="Waving gradient footer matching the profile header" />
 </p>
 
 <p align="center">
